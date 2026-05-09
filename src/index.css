@@ -1,0 +1,54 @@
+@import "tailwindcss";
+
+@theme {
+  --font-mono: 'JetBrains Mono', 'Roboto Mono', monospace;
+  --color-hardware-bg: #E6E6E6;
+  --color-hardware-card: #151619;
+  --color-hardware-accent: #FF4444;
+}
+
+:root {
+  --bg-color: #E6E6E6;
+  --card-bg: #151619;
+  --text-primary: #FFFFFF;
+  --text-secondary: #8E9299;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: #1a1a1a;
+}
+
+.hardware-card {
+  background-color: var(--card-bg);
+  color: var(--text-primary);
+  border-radius: 12px;
+  box-shadow: 0 20px 40px rgba(0,0,0,0.15);
+}
+
+.mono-text {
+  font-family: var(--font-mono);
+}
+
+/* Custom slider styling for EQ */
+input[type="range"] {
+  -webkit-appearance: none;
+  background: transparent;
+}
+
+input[type="range"]::-webkit-slider-runnable-track {
+  background: #333;
+  height: 4px;
+  border-radius: 2px;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  height: 16px;
+  width: 16px;
+  border-radius: 50%;
+  background: var(--color-hardware-accent);
+  margin-top: -6px;
+  cursor: pointer;
+  box-shadow: 0 0 8px rgba(255, 68, 68, 0.4);
+}

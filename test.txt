@@ -1,0 +1,14 @@
+url	source_name	name	form	rig
+file://measurements/crinacle/raw_data/IEC60318-4 IEM Measurements (TSV txt)/Buds2 Pro S2 ANC (Treble Boost) R.txt			ignore	711
+file://measurements/crinacle/raw_data/IEC60318-4 IEM Measurements (TSV txt)/Buds2 Pro ANC (Dynamic) R.txt	Samsung Galaxy Buds2 Pro (Dynamic EQ) (ANC mode)		ignore	711
+file://measurements/crinacle/raw_data/IEC60318-4 IEM Measurements (TSV txt)/Buds2 Pro ANC (Treble Boost) L.txt	Samsung Galaxy Buds2 Pro (Treble boost EQ) (ANC mode)		ignore	711
+file://measurements/crinacle/raw_data/IEC60318-4 IEM Measurements (TSV txt)/Buds2 Pro ANC (Soft) R.txt	Samsung Galaxy Buds2 Pro (Soft EQ) (ANC mode)		ignore	711
+file://measurements/crinacle/raw_data/IEC60318-4 IEM Measurements (TSV txt)/U12t L DEC17.txt			ignore	711
+file://measurements/crinacle/raw_data/IEC60318-4 IEM Measurements (TSV txt)/X7 R.txt	TRN X7	TRN X7	in-ear	711
+file://measurements/crinacle/raw_data/IEC60318-4 IEM Measurements (TSV txt)/X7 L.txt	TRN X7	TRN X7	in-ear	711
+file://measurements/crinacle/raw_data/IEC60318-4 IEM Measurements (TSV txt)/DUSK S1 L.txt	Moondrop DUSK (Analog)	Moondrop x Crinacle DUSK (analog)	in-ear	711
+file://measurements/crinacle/raw_data/IEC60318-4 IEM Measurements (TSV txt)/DUSK S1 R.txt	Moondrop DUSK (Analog)	Moondrop x Crinacle DUSK (analog)	in-ear	711
+file://measurements/crinacle/raw_data/IEC60318-4 IEM Measurements (TSV txt)/Zero TE L.txt	Truthear Zero	Truthear x Crinacle Zero	in-ear	711
+file://measurements/crinacle/raw_data/IEC60318-4 IEM Measurements (TSV txt)/Zero TE R.txt	Truthear Zero	Truthear x Crinacle Zero	in-ear	711
+file://measurements/crinacle/raw_data/IEC60318-4 IEM Measurements (TSV txt)/IE600 R.txt	Sennheiser IE600	Sennheiser IE 600	in-ear	711
+file://measurements/crinacle/raw_data/IEC60318-4 IEM Measurements (TSV txt)/IE600 L.txt	Sennheiser IE600	Sennheiser IE 600	in-ear	711

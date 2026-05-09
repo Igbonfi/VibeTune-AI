@@ -1,0 +1,6 @@
+{
+  "name": "VibeTune AI",
+  "description": "AI-powered EQ generator that crafts perfect audio profiles for your IEMs based on your Spotify tracks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
